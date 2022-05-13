@@ -1,5 +1,5 @@
 
-### Hi there 👋 I am Samna Najeeb. 🔭 
+### Hi there 👋 I am Samna Najeeb. 🔭 <img src="https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif" width="200"/>
 
 - I work as a Software Developer 👩‍💻👩‍💻 I am Passionate about learning & exploring new Tech. 
 - I work on Ansible, Terraform and Python on daily basis at work ].
