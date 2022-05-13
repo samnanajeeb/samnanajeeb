@@ -41,7 +41,7 @@
 </p> 
 src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
-<p align="center">🔔 <a href="https://calendly.com/samnanajeeb2/">Schedule a time</a> to discuss open source and learning opportunities.</p>
+<p align="left">🔔 <a href="https://calendly.com/samnanajeeb2/">Schedule a time</a> to discuss open source and learning opportunities.</p>
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
