@@ -32,7 +32,9 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
  </br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samnanajeeb&show_icons=true&include_all_commits=true&theme=radical" alt="Samna Najeeb's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnanajeeb&layout=compact&theme=radical" />
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samnanajeeb&theme=github_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samnanajeeb&theme=github_dark)
  
  📊 **this week i spent my time on:**
