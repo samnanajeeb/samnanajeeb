@@ -8,7 +8,7 @@
 - I write Tech Blogs & make educational YouTube Videos.
 - I am working on building my online presence and doing my bit to spread knowledge. Check out www.ansibledeveloper.com ( Work in progress) 
 
-<div id="header" align="left">
+<div id="header" align="center">
 <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="200"/>
 </div>
 
