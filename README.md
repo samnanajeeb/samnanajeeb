@@ -23,15 +23,6 @@
 
 [![Samna Najeeb’s github stats](https://github-readme-stats.vercel.app/api?username=samnanajeeb)](https://github.com/samnanajeeb) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnanajeeb&layout=compact)](https://github.com/samnanajeeb)
 
-
-- I work as a Software Developer 👩‍💻👩‍💻 Passionate for learning & exploring new Tech. 
-- I work on Ansible, Terraform and Python on daily basis at work .
-- I have good Hands-on experience in AWS, Azure, Google cloud and Vsphere Cloud 
-- I love coding!! My primary programming language is Python
-- I write Tech Blogs & make educational YouTube Videos.
-- I am working on building my online presence and doing my bit to spread knowledge. Check out www.ansibledeveloper.com ( Work in progress) 
-
-
 <!--
 **samnanajeeb/samnanajeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
