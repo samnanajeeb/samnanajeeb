@@ -29,6 +29,9 @@
 
 [![Samna Najeeb’s github stats](https://github-readme-stats.vercel.app/api?username=samnanajeeb)](https://github.com/samnanajeeb) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnanajeeb&layout=compact)](https://github.com/samnanajeeb)
 
+
+ ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+
 <!--
 **samnanajeeb/samnanajeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
