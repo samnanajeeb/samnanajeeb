@@ -1,4 +1,4 @@
-### Hi there 👋 I am Samna Najeeb. Work in Progress to build my public git repository 🔭 
+### Hi there 👋 I am Samna Najeeb. Work in Progress building my public git repository 🔭 
 
 - I work as a Software Developer.
 - I work on Ansible, Terraform and Python on daily basis at work.
