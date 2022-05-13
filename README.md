@@ -3,8 +3,7 @@
 
 
 ### My Tech Toolbox 🧰
-### ![alt text](https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png)
-### ![alt text]()
+### ![alt text](https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png)### ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hashicorp.com%2Fbrand&psig=AOvVaw1v7LvKSdAm5chpufASln7h&ust=1652526336347000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCBi7-q3PcCFQAAAAAdAAAAABAJ)
 
 - I work as a Software Developer 👩‍💻👩‍💻 .
 - I work on Ansible, Terraform and Python on daily basis at work .
