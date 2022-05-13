@@ -3,7 +3,7 @@
 
 
 ### My Tech Toolbox 🧰
-### ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmgior.com%2Fautomating-my-virtual-labs-with-too-many-tools%2F&psig=AOvVaw3m6gCcWtPVhND00AWYpyKN&ust=1652525667087000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICEr5ao3PcCFQAAAAAdAAAAABAD)
+### ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ansible.com%2F&psig=AOvVaw0Gw2ZSgT_GWmUkzv5k8rW4&ust=1652525779958000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODcobeo3PcCFQAAAAAdAAAAABAD)
 
 - I work as a Software Developer 👩‍💻👩‍💻 .
 - I work on Ansible, Terraform and Python on daily basis at work .
