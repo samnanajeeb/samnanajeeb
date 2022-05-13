@@ -3,7 +3,7 @@
 
 
 ### My Tech Toolbox 🧰
-### ![alt text](https://www.ansible.com/?hsLang=en-us)
+### ![alt text](https://cdn.freelogovectors.net/wp-content/uploads/2020/07/ansible-logo-redhat.png)
 
 - I work as a Software Developer 👩‍💻👩‍💻 .
 - I work on Ansible, Terraform and Python on daily basis at work .
