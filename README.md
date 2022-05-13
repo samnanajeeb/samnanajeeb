@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I am Samna Najeeb. Work in Progress building my public git repository 🔭 
 
-<div id="header" align="right">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
