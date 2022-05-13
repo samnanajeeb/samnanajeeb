@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Samna Najeeb. Work in Progress building my public git repository 🔭 
 
+![image](https://user-images.githubusercontent.com/66362347/168273053-2af0f819-609c-417f-a13a-78ef05781f21.png)
 
 
 ### My Tech Toolbox 🧰
