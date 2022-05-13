@@ -3,7 +3,7 @@
 
 
 ### My Tech Toolbox 🧰
-### ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ansible.com%2F&psig=AOvVaw0Gw2ZSgT_GWmUkzv5k8rW4&ust=1652525779958000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODcobeo3PcCFQAAAAAdAAAAABAD)
+### ![alt text](https://www.ansible.com/?hsLang=en-us)
 
 - I work as a Software Developer 👩‍💻👩‍💻 .
 - I work on Ansible, Terraform and Python on daily basis at work .
