@@ -18,7 +18,7 @@
 
 <a href="https://www.linkedin.com/in/samnanajeeb/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="51px"/></a>
 
-<a href="https://twitter.com/NajeebSamna"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="51px"/></a> 
+<a href="https://twitter.com/NajeebSamna"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="500px"/></a> 
 
 </br>
 
