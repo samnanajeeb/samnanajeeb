@@ -36,12 +36,12 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons//ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="100" height="100"/>&nbsp;
+  <img src="https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg" alt="terraform" width="100" height="100"/> 
+  <img src="https://user-images.githubusercontent.com/66362347/168272020-534b13fb-233b-46ee-8997-c3af06e3a142.png" alt="python" width="100" height="100"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons//azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons//googlecloud/googlecloud-original-wordmark.svg" title="googlecloud" alt="Google" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons//amazonwebservices/amazonwebservices-plain-wordmark.svg" title="googlecloud" alt="Google" width="100" height="100"/>&nbsp;
-  <img src="https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg" alt="python" width="100" height="100"/> 
-  <img src="https://user-images.githubusercontent.com/66362347/168272020-534b13fb-233b-46ee-8997-c3af06e3a142.png" alt="python" width="100" height="100"/> 
- 
+  
  </br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samnanajeeb&show_icons=true&include_all_commits=true&theme=radical" alt="Samna Najeeb's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnanajeeb&layout=compact&theme=radical" />
