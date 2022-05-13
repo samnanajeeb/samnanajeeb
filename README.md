@@ -23,6 +23,19 @@
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="100" height="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" alt="python" width="100" height="100"/> <img src="https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg" alt="python" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/66362347/168272020-534b13fb-233b-46ee-8997-c3af06e3a142.png" alt="python" width="100" height="100"/> 
+ 
+ 📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   9 hrs 43 mins   ████████████████░░░░░░░░░   63.48 %
+TypeScript   4 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   32.59 %
+HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+```
+
+<!--END_SECTION:waka-->
+
 
 [![Samna Najeeb’s github stats](https://github-readme-stats.vercel.app/api?username=samnanajeeb)](https://github.com/samnanajeeb) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnanajeeb&layout=compact)](https://github.com/samnanajeeb)
 
