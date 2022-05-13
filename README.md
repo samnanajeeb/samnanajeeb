@@ -39,7 +39,6 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
   <img src="https://github.com/devicons/devicon/blob/master/icons//azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons//googlecloud/googlecloud-original-wordmark.svg" title="googlecloud" alt="Google" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons//amazonwebservices/amazonwebservices-plain-wordmark.svg" title="googlecloud" alt="Google" width="100" height="100"/>&nbsp;
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="100" height="100"/>
   <img src="https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg" alt="python" width="100" height="100"/> 
   <img src="https://user-images.githubusercontent.com/66362347/168272020-534b13fb-233b-46ee-8997-c3af06e3a142.png" alt="python" width="100" height="100"/> 
  
