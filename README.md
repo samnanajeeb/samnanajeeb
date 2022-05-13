@@ -5,9 +5,7 @@
 ### ![alt text](https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png) ![alt text](https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg)![image](https://user-images.githubusercontent.com/66362347/168272020-534b13fb-233b-46ee-8997-c3af06e3a142.png)
 
 
-[![Samna Najeeb’s github stats](https://github-readme-stats.vercel.app/api?username=samnanajeeb)](https://github.com/samnanajeeb)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnanajeeb&layout=compact)](https://github.com/samnanajeeb)
+[![Samna Najeeb’s github stats](https://github-readme-stats.vercel.app/api?username=samnanajeeb)](https://github.com/samnanajeeb) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnanajeeb&layout=compact)](https://github.com/samnanajeeb)
 
 
 - I work as a Software Developer 👩‍💻👩‍💻 Passionate for learning & exploring new Tech. 
