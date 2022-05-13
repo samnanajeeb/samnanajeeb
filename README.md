@@ -3,8 +3,7 @@
 
 
 ### My Tech Toolbox 🧰
-### ![alt text](https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png)
-### ![alt text](https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg)
+### ![alt text](https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png) ### ![alt text](https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg)
 
 - I work as a Software Developer 👩‍💻👩‍💻 .
 - I work on Ansible, Terraform and Python on daily basis at work .
