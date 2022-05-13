@@ -1,7 +1,8 @@
-### Hi there 👋 I am Samna Najeeb. 
+### Hi there 👋 I am Samna Najeeb. Work in Progress to build my public git repository 🔭 
 
 - I work as a Software Developer.
-- I work on Ansible, Terraform and Python on daily basis at work
+- I work on Ansible, Terraform and Python on daily basis at work.
+- I have good Hands-on experience in AWS, Azure, Google cloud and Vsphere Cloud 
 - I love coding!!
 - Passionate for learning & exploring new Tech. 
 - I write Tech Blogs & make educational YouTube Videos.
