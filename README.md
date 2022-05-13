@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Samna Najeeb. Work in Progress building my public git repository 🔭 
 
 ### 🤝 I would love to Connect with you:
-<a href="https://www.linkedin.com/in/samnanajeeb/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/samnanajeeb/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="50px"/></a>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
