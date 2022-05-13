@@ -3,8 +3,7 @@
 ### ![alt text](https://i0.wp.com/www.ansibledeveloper.com/wp-content/uploads/2021/05/samna_onam-2.jpg?fit=300%2C300&ssl=1)
 
 ### My Tech Toolbox 🧰
-### ![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F10%2F66%2Fca%2F1066cabb206c21ff44dbb21434ed8e48.png&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F670262357022084886%2F&tbnid=GRk3CBFLuSeHfM&vet=12ahUKEwjWlpjJp9z3AhVkwDgGHUUfB2gQMygLegUIARDyAQ..i&docid=tYkzHyoOTCjhsM&w=600&h=339&q=ansible%20logo&hl=en-GB&ved=2ahUKEwjWlpjJp9z3AhVkwDgGHUUfB2gQMygLegUIARDyAQ)
-
+### ![alt text](https://seeklogo.com/images/A/ansible-logo-D062994CEE-seeklogo.com.png)
 
 - I work as a Software Developer 👩‍💻👩‍💻 .
 - I work on Ansible, Terraform and Python on daily basis at work .
