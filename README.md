@@ -29,6 +29,13 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="100" height="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" alt="python" width="100" height="100"/> <img src="https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg" alt="python" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/66362347/168272020-534b13fb-233b-46ee-8997-c3af06e3a142.png" alt="python" width="100" height="100"/> 
  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabbie&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabbie&layout=compact&theme=radical" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theabbie&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark)
+ 
  📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
