@@ -20,8 +20,7 @@
 
 [![Samna Najeeb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14743626)](https://stackoverflow.com/users/14743626/samna-najeeb
 )
-python -m pytest --junitxml=reports/junit/junit.xml
-genbadge coverage --output-file ./reports/report_badges/coverage-badge.svg
+
 </br>
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 </p>
