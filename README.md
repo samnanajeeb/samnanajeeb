@@ -2,7 +2,7 @@
 
 ### ![alt text](https://i0.wp.com/www.ansibledeveloper.com/wp-content/uploads/2021/05/samna_onam-2.jpg?fit=300%2C300&ssl=1)
 
-- I work as a Software Developer.
+- I work as a Software Developer :) .
 - I work on Ansible, Terraform and Python on daily basis at work.
 - I have good Hands-on experience in AWS, Azure, Google cloud and Vsphere Cloud 
 - I love coding!!
