@@ -3,7 +3,7 @@
 
 
 ### My Tech Toolbox 🧰
-### ![alt text](https://getvectorlogo.com/wp-content/uploads/2019/01/red-hat-ansible-vector-logo.png)
+### ![alt text]width="200"(https://getvectorlogo.com/wp-content/uploads/2019/01/red-hat-ansible-vector-logo.png)
 ### ![alt text]()
 ### ![alt text]()
 
