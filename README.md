@@ -1,9 +1,5 @@
 ### Hi there 👋 I am Samna Najeeb. Work in Progress building my public git repository 🔭 
-### ![alt text (https://camo.githubusercontent.com/026bd83134864a0dd31974147b4b469005f272fc0b1b43a1fa93049cb35eaf87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f51756f72612d2532334239324232372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d51756f7261266c6f676f436f6c6f723d7768697465)
-
-![image](https://user-images.githubusercontent.com/66362347/168273053-2af0f819-609c-417f-a13a-78ef05781f21.png)
-
-
+### ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ### My Tech Toolbox 🧰
 ### ![alt text](https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png) ![alt text](https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg)![image](https://user-images.githubusercontent.com/66362347/168272020-534b13fb-233b-46ee-8997-c3af06e3a142.png)
 
