@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Samna Najeeb
 
+- My primary coding language: Python
+
 <!--
 **samnanajeeb/samnanajeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
