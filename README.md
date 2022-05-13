@@ -7,6 +7,8 @@
 
 [![Samna Najeeb’s github stats](https://github-readme-stats.vercel.app/api?username=samnanajeeb)](https://github.com/samnanajeeb)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnanajeeb&layout=compact)](https://github.com/samnanajeeb)
+
 
 - I work as a Software Developer 👩‍💻👩‍💻 Passionate for learning & exploring new Tech. 
 - I work on Ansible, Terraform and Python on daily basis at work .
