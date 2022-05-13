@@ -15,9 +15,11 @@
 
 🤝 🤝  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 🤝 🤝 
 </br> 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/samnanajeeb)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/NajeebSamna)
+
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Check My badges here
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.credly.com/users/samna-najeeb/badges)
 
 
