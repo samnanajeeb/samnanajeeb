@@ -1,5 +1,10 @@
 
-### Hi there 👋 I am Samna Najeeb. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/> <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+### Hi there 👋 I am Samna Najeeb. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/> 
+
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
+
 - I work as a Software Developer 👩‍💻👩‍💻 I am Passionate about learning & exploring new Technologies. 
 - I do coding for Infratsucture management with Ansible, Terraform and Python on daily basis at work.
 - I have good Hands-on experience in AWS, Azure, Google and Vsphere Cloud 
