@@ -19,7 +19,7 @@
 
 </br>
 <img height="70" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Check My badges here
-[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.credly.com/users/samna-najeeb/badges)
+![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.credly.com/users/samna-najeeb/badges)
 
 </p>
 <p align="left">🔔 <a href="https://calendly.com/samnanajeeb2/">Schedule a time</a> to discuss open source and learning opportunities.</p>
