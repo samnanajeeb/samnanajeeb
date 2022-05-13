@@ -29,7 +29,7 @@
 
 [![Samna Najeeb’s github stats](https://github-readme-stats.vercel.app/api?username=samnanajeeb)](https://github.com/samnanajeeb) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnanajeeb&layout=compact)](https://github.com/samnanajeeb)
 
-
+### My Github profile Visitor count 😄
  ![Visitor Count](https://profile-counter.glitch.me/{samnanajeeb}/count.svg)
 
 <!--
