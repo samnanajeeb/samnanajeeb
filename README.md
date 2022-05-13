@@ -1,6 +1,11 @@
-### Hi there 👋 I am Samna Najeeb
+### Hi there 👋 I am Samna Najeeb. “Tell me and I forget, teach me and I may remember, involve me and I learn.” – Benjamin Franklin
 
+- I work as a Software Developer
 - My primary coding language: Python
+- Passionate for learning & exploring new Tech. 
+- I write Tech Blogs & make educational YouTube Videos.
+- I am working on building my online presence and doing my bit to spread knowledge 
+- I would love to  mentor fellow developers who are starting our their programming journey.
 
 <!--
 **samnanajeeb/samnanajeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
