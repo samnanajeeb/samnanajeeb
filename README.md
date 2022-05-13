@@ -1,9 +1,7 @@
 
-### Hi there 👋 I am Samna Najeeb. 🔭 
-
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
-</div>
+### Hi there 👋 I am Samna Najeeb. 🔭 <div id="header" align="left">
+                                      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+                                      </div>
 
 
 
