@@ -3,7 +3,7 @@
 ### ![alt text](https://i0.wp.com/www.ansibledeveloper.com/wp-content/uploads/2021/05/samna_onam-2.jpg?fit=300%2C300&ssl=1)
 
 ### My Tech Toolbox 🧰
-### ![alt text](https://user-images.githubusercontent.com/66362347/168268195-b43a0083-c07b-4c8d-8343-b94b9c91afbc.png)
+### ![alt text]!(https://www.ansible.com/?hsLang=en-us)
 
 
 - I work as a Software Developer 👩‍💻👩‍💻 .
