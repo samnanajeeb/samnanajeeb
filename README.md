@@ -15,16 +15,11 @@
 
 🤝 🤝  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 🤝 🤝 
 </br> 
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/samnanajeeb)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/NajeebSamna)
-
-
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Check My badges here
-[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.credly.com/users/samna-najeeb/badges)
-
-
-
 <a href="https://www.linkedin.com/in/samnanajeeb/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="51px"/></a> <a href="https://twitter.com/NajeebSamna"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="50px" width="75px"/></a> 
+
+</br>
+## <img height="100" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Check My badges here
+[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.credly.com/users/samna-najeeb/badges)
 
 </p>
 <p align="left">🔔 <a href="https://calendly.com/samnanajeeb2/">Schedule a time</a> to discuss open source and learning opportunities.</p>
