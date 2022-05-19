@@ -1,8 +1,8 @@
 
-### <p align="center">
+### Hi there 👋 I am Samna Najeeb. 
+ <p align="center">
   <img width="100" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p> 
-Hi there 👋 I am Samna Najeeb. 
 - I work as a Software Developer 👩‍💻👩‍💻 I am Passionate about learning & exploring new Technologies. 
 - I do coding for Infratsucture management with Ansible, Terraform and Python on daily basis at work.
 - I have good Hands-on experience in AWS, Azure, Google and Vsphere Cloud 
