@@ -1,25 +1,8 @@
 
-### Hi there 👋 I am Samna Najeeb. <p align="right">
+### Hi there 👋 I am Samna Najeeb. 
+<p align="leftt">
   <img width="100" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
-
-
-<p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
-</p>
-
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
-
-
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
-
-
 - I work as a Software Developer 👩‍💻👩‍💻 I am Passionate about learning & exploring new Technologies. 
 - I do coding for Infratsucture management with Ansible, Terraform and Python on daily basis at work.
 - I have good Hands-on experience in AWS, Azure, Google and Vsphere Cloud 
