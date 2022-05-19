@@ -1,5 +1,5 @@
 
-### Hi there 👋 I am Samna Najeeb. <p align="right">
+### Hi there 👋 I am Samna Najeeb. <p align="center">
   <img width="100" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 - I work as a Software Developer 👩‍💻👩‍💻 I am Passionate about learning & exploring new Technologies. 
