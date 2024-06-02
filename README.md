@@ -6,7 +6,7 @@
 - I have good Hands-on experience in AWS, Azure, Google and Vsphere Cloud 
 - I love coding!! My primary programming language is Python
 - I write Tech Blogs & make educational YouTube Videos.
-- I am working on building my online presence and doing my bit to spread knowledge. Check out www.ansibledeveloper.com ( Work in progress) 
+- I am working on building my online presence and doing my bit to spread knowledge
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300"/>
